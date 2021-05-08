@@ -32,7 +32,18 @@ top:54%;
 left:44.3%;
 	
 }
-
+/* Webname */
+.WebName{
+	
+color: #ffffff;
+position:absolute;
+font-family: 'Indie Flower', cursive;
+top:0%;
+left:15%;
+font-size: 17px;
+text-decoration: none;
+padding: 14px 16px;
+}
 
 
 /* Add a black background color to the top navigation */
