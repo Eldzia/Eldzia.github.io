@@ -8,9 +8,34 @@ body {
 background-color: #ffffff;
 }
 
+
+/* email */
+.email{
+	
+color: #ffffff;
+position:absolute;
+font-size:45px;
+text-shadow: 4px 4px 5px black;
+font-family: 'Indie Flower', cursive;
+top:39%;
+left:37%;
+	
+}
+
+/* insta */
+.insta{
+text-shadow: 4px 4px 5px black;	
+color: #ffffff;
+position:absolute;
+font-family: 'Indie Flower', cursive;
+font-size:45px;
+top:46%;
+left:37.2%;
+	
+}
 /* Webname */
 .WebName{
-	
+text-shadow: 4px 4px 5px black;
 color: #ffffff;
 position:absolute;
 font-family: 'Indie Flower', cursive;
@@ -24,6 +49,7 @@ padding: 14px 16px;
 
 /* Add a black background color to the top navigation */
 .topnav {
+  text-shadow: 4px 4px 5px black;
   font-family: 'Indie Flower', cursive;
   position:absolute;
   top:1%;
@@ -46,3 +72,27 @@ padding: 14px 16px;
   color: #909091;
 }
 
+
+a:link {
+  color: #dbdbdb;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #dbdbdb;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #dbdbdb;
+  background-color: transparent;
+  text-decoration: underline;
+}
